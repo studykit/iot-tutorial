@@ -1,0 +1,2 @@
+source /Users/myungo/Workshop/iot-tutorial/ESP/bluetooth-serial/build/gdbinit/symbols
+source /Users/myungo/Workshop/iot-tutorial/ESP/bluetooth-serial/build/gdbinit/connect

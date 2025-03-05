@@ -1,8 +1,0 @@
-{
-    "idf.pythonInstallPath": "/bin/python3",
-    "python.analysis.extraPaths": [
-        "~/Github/micropython",
-        "~/GitHub/micropython/lib/micropython-lib/micropython/drivers/display/ssd1306",
-    ],
-    "makefile.configureOnOpen": false
-}
